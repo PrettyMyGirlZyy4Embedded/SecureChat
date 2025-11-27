@@ -1,5 +1,6 @@
 # SecureChat
 SecureChat 增强版客户端 - 集成军事级安全 + P2P网络通信 - PKI证书认证 - 多因素认证（MFA） - 证书指纹验证 - 信任管理 - P2P实时通信
+# 日常使用 直接运行test.py即可
 # SecureChat Military - 军事级安全聊天系统
 
 [![Security Level](https://img.shields.io/badge/Security-9.5%2F10-success)](SECURITY_AUDIT_REPORT.md)
